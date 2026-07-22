@@ -14,6 +14,8 @@
 Data Analytics • Business Intelligence |
 Ciência de Dados e IA - UFSM
 
+Sou graduanda em Ciência de Dados e Inteligência Artificial na UFSM. Tenho interesse em análise de dados, visualização e Business Intelligence. Atualmente desenvolvo projetos práticos para consolidar conhecimentos em Python, SQL e Power BI.
+
 • Python
 • SQL
 • Pandas
