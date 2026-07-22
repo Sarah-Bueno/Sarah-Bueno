@@ -14,18 +14,18 @@
 Data Analytics • Business Intelligence |
 Ciência de Dados e IA - UFSM
 
-🐍 Python
-🗄 SQL
-🐼 Pandas
-📊 Power BI
-📈 Looker Studio
-🐙 Git
-☁ GitHub
+• Python
+• SQL
+• Pandas
+• Power BI
+• Looker Studio
+• Git
+• GitHub
 
 📚 Atualmente estudando
-✔ SQL
-✔ Power BI/Looker Studio
-✔ ETL
+• SQL
+• Power BI/Looker Studio
+• ETL
 
 
 ─────────────────────────────────────────────────────────────────────────────────────────
