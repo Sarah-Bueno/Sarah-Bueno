@@ -9,7 +9,7 @@
 </p>
 ─────────────────────────────────────────────────────────────────────────────────────────
 
-                                   Sarah Bueno
+                                    Sarah Bueno
 
 Data Analytics • Business Intelligence |
 Ciência de Dados e IA - UFSM
