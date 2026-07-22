@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+</p>
 
-<!--
-**Sarah-Bueno/Sarah-Bueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────
 
-Here are some ideas to get you started:
+        Sarah Bueno
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analytics • Business Intelligence
+Ciência de Dados e IA - UFSM
+
+🐍 Python
+🗄 SQL
+🐼 Pandas
+📊 Power BI
+📈 Looker Studio
+🐙 Git
+☁ GitHub
+
+📚 Atualmente estudando
+✔ SQL
+✔ Power BI/Looker Studio
+✔ ETL
+
+
+────────────────────────────
+
+📈 Estatísticas
+
+🔥 Commits
+
+📊 Linguagens
+
+🏆 Conquistas
+
+────────────────────────────
+
+📂 Projetos em destaque
+
+📊 Dashboard Power BI/Looker Studio
+🚗 Traffic Urban Flow
+🗄 Estudos de SQL
+🐍 Estudos de Python
