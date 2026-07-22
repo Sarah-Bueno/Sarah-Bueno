@@ -30,6 +30,12 @@ Sou graduanda em Ciência de Dados e Inteligência Artificial na UFSM. Tenho int
 • ETL
 
 ─────────────────────────────────────────────────────────────────────────────────────────
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sarah-Bueno&show_icons=true&theme=transparent"
+    alt="Estatísticas do GitHub de Sarah Bueno"
+  />
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sarah-Bueno&theme=tokyonight&hide_border=true"/>
