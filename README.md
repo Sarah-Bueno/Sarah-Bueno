@@ -11,7 +11,7 @@
 
         Sarah Bueno
 
-Data Analytics • Business Intelligence
+Data Analytics • Business Intelligence |
 Ciência de Dados e IA - UFSM
 
 🐍 Python
@@ -27,16 +27,6 @@ Ciência de Dados e IA - UFSM
 ✔ Power BI/Looker Studio
 ✔ ETL
 
-
-────────────────────────────
-
-📈 Estatísticas
-
-🔥 Commits
-
-📊 Linguagens
-
-🏆 Conquistas
 
 ────────────────────────────
 
