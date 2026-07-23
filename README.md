@@ -24,8 +24,8 @@ Sou graduanda em Ciência de Dados e Inteligência Artificial na UFSM. Tenho int
 • Git
 • GitHub
 
-📚 Atualmente estudando
-• SQL
+📚 Atualmente estudando ->
+SQL
 • Power BI/Looker Studio
 • ETL
 
