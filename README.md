@@ -39,7 +39,7 @@ Storytelling com Dados
 
 📂 Projetos em destaque
 
-📊 Dashboard Power BI/Looker Studio
-🚗 Traffic Urban Flow
-🗄 Estudos de SQL
-🐍 Estudos de Python
+💻 Análise PIB da Agropecuária
+🏆 Oscar Data Pipeline
+🎬 Brazillian Films Data Pipeline
+📊 Visualização de Dados com Power BI e Looker Studio
